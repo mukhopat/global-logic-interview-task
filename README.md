@@ -29,6 +29,6 @@ robot test-suite.robot
 ```
 
 ## 2. Results
-As a result of running the test suite, two HTML files will be created in the same directory as the test suite.
-The test report will be in the file 'report.html'.
+As a result of running the test suite, two HTML files will be created in the same directory as the test suite.<br />
+The test report will be in the file 'report.html'.<br />
 The test logs will be in the file 'log.html'.
